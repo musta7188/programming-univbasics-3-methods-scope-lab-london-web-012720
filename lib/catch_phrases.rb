@@ -10,6 +10,7 @@ def toadstool
 end
 
 def any_phrase(phrase)
+  return phrase
 end
 
-any_phrase("Do A Barrel Roll")
+any_phrase("Do A Barrel Roll!\n")
